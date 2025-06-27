@@ -1,1 +1,1 @@
-# Web-Scrapping-Project-in-Python
+This project demonstrates web scraping using Python, focusing on extracting useful information from websites with the help of the `requests` and `BeautifulSoup` libraries. This walks through how to fetch, parse, and clean HTML content, making it ideal for beginners learning web scraping. It includes examples of locating specific tags, handling nested structures, and working with real website data. The code is simple, readable, and reusable for various scraping tasks like collecting headlines, tables, or product listings. 
